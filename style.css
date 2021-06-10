@@ -1,0 +1,143 @@
+*{
+  user-select: none;
+
+}
+
+#microPhn{
+  
+  font-size: 200px;
+  margin-top: 500px;
+  color:#00416a;
+  
+}
+
+#yn{
+  
+  font-size: 22px;
+}
+#wn{
+  
+  font-size: 22px;
+}
+#gn{
+  
+  font-size: 22px;
+}
+
+input{
+  
+  display: none;
+}
+
+
+
+
+hr{
+  color: lightpink;
+}
+
+@media (max-width: 720px){
+  h1{
+    font-size: 20px;
+  }
+  #microPhn{
+    font-size: 110px;
+    margin-top: 250px;
+  }
+}
+#h1{
+  
+  font-size: 150px;
+  color: white;
+  -webkit-text-stroke: 0.3vw black;
+  
+  font-family: 'Baloo Tammudu 2', cursive;
+  text-shadow: 5px 7px 9px #00416a;
+  
+}
+.lg{
+  margin-top: 150px;
+}
+.u{
+  font-size: 35px !important;
+}
+.lead{
+    font-family: 'Mukta', sans-serif;
+    color: #00416a;
+  
+  
+}
+
+#smlg{
+  
+  color: white;
+  -webkit-text-stroke: 0.3px black;
+  
+  font-family: 'Baloo Tammudu 2', cursive;
+  text-shadow: 0.5px 0.8px 1.1px #00416a;
+  
+}
+#smlother{
+  font-family: 'Dancing Script', cursive;
+  color: #00416a;
+}
+
+.other{
+  
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+  color: #00416a;
+  
+}
+.uio{
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+footer{
+  margin-top: 200px;
+   
+  font-family: 'Mukta', sans-serif;
+  
+}
+::placeholder{
+  
+  font-family: 'Mukta', sans-serif;
+  
+}
+li{
+   font-family: 'Mukta', sans-serif;
+}
+#titleadd{
+  font-family: 'Mukta', sans-serif;
+}
+
+input{
+  font-family: 'Mukta', sans-serif;
+  
+}
+
+#icon{
+  font-size: 35px;
+  color: #00416a;
+  margin-left: 300px;
+  margin-top: 15px;
+}
+
+button{
+  
+  font-family: 'Mukta', sans-serif; 
+}
+ul{
+  list-style-type: none;
+  margin-left: 100px;
+}
+
+@media (min-width: 720px){
+  
+  #icon {
+    font-size: 35px;
+    color: #00416a;
+    margin-left: 900px;
+    margin-top: 15px;
+  }
+  
+}
